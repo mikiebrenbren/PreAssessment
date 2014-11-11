@@ -1,0 +1,36 @@
+[Name] - http://jsfiddle.net/U3ezV/215/ - SOLUTION-URL
+[Food] - http://jsfiddle.net/9Z3YG/178/- SOLUTION-URL
+[Double] http://jsfiddle.net/hu85B/180/ - SOLUTION-URL
+[Addition]- http://jsfiddle.net/M8pZf/132/- SOLUTION-URL
+[First] - http://jsfiddle.net/zsFvE/187/ - SOLUTION-URL
+[Last] - http://jsfiddle.net/hJZUE/164/ - SOLUTION-URL
+[Loop] -http://jsfiddle.net/YM7th/146/ - SOLUTION-URL
+[numSum] -http://jsfiddle.net/b2ysK/111/ - SOLUTION-URL
+[oddsAndEvens] - http://jsfiddle.net/4zfcz/137/ - SOLUTION-URL
+[me] -http://jsfiddle.net/5Ua3r/107/ - SOLUTION-URL
+[favoriteThings] - http://jsfiddle.net/zCcnT/155/- SOLUTION-URL
+[firstLoop] - http://jsfiddle.net/Lgf3G/137/ - SOLUTION-URL
+[userObj] - http://jsfiddle.net/VkvMV/140/ - SOLUTION-URL
+
+
+
+yourStyle.css
+
+body {
+  background-color: #e3e3e3;
+  
+}
+
+.row-one{
+	background-color: green;
+}
+
+.row-two{
+	background-color: yellow;
+}
+.row-three{
+	background-color: red;
+}
+.row-four{
+	background-color: blue;
+}
